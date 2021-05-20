@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\Task 2">
+      <UniqueIdentifier>{a74a345b-1014-4a39-b7d2-ea49b382b3e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Task 2">
+      <UniqueIdentifier>{f94fd3e5-0471-422f-a26c-60e9bccb89bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Lab03">
+      <UniqueIdentifier>{600920bb-7caa-46c7-93b8-ba6e3ca1e35b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Lab03">
+      <UniqueIdentifier>{6689ee50-dcfd-417f-be22-76750335c921}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Line.h">
+      <Filter>Файлы заголовков\Task 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Drawing.h">
+      <Filter>Файлы заголовков\Task 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Point2D.h">
+      <Filter>Файлы заголовков\Task 2</Filter>
+    </ClInclude>
+    <ClInclude Include="LineStyle.h">
+      <Filter>Файлы заголовков\Task 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Album.h">
+      <Filter>Файлы заголовков\Lab03</Filter>
+    </ClInclude>
+    <ClInclude Include="Band.h">
+      <Filter>Файлы заголовков\Lab03</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo.h">
+      <Filter>Файлы заголовков\Lab03</Filter>
+    </ClInclude>
+    <ClInclude Include="Flight.h">
+      <Filter>Файлы заголовков\Lab03</Filter>
+    </ClInclude>
+    <ClInclude Include="Genre.h">
+      <Filter>Файлы заголовков\Lab03</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Файлы заголовков\Lab03</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>Файлы заголовков\Lab03</Filter>
+    </ClInclude>
+    <ClInclude Include="Song.h">
+      <Filter>Файлы заголовков\Lab03</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Файлы заголовков\Lab03</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Album.cpp">
+      <Filter>Исходные файлы\Lab03</Filter>
+    </ClCompile>
+    <ClCompile Include="Band.cpp">
+      <Filter>Исходные файлы\Lab03</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo.cpp">
+      <Filter>Исходные файлы\Lab03</Filter>
+    </ClCompile>
+    <ClCompile Include="Flight.cpp">
+      <Filter>Исходные файлы\Lab03</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы\Lab03</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Исходные файлы\Lab03</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>Исходные файлы\Lab03</Filter>
+    </ClCompile>
+    <ClCompile Include="Song.cpp">
+      <Filter>Исходные файлы\Lab03</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Исходные файлы\Lab03</Filter>
+    </ClCompile>
+    <ClCompile Include="Point2D.cpp">
+      <Filter>Исходные файлы\Task 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>Исходные файлы\Task 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Drawing.cpp">
+      <Filter>Исходные файлы\Task 2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
